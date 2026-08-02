@@ -5,7 +5,6 @@ A simple registration form user interface built using HTML5 and CSS3.
 ## Live Demo
 
 🔗 **View the project online:**
-
 https://ftm-ghd.github.io/HTML-CSS-Registration-Form/
 
 ## Features
@@ -24,4 +23,4 @@ https://ftm-ghd.github.io/HTML-CSS-Registration-Form/
 
 ## Screenshots
 
-![Online Shop Screenshot](screenshots/HTML-CSS-Online-Shop.PNG)
+![Online Shop Screenshot](screenshots/HTML-CSS-Registration-Form.PNG)
