@@ -15,3 +15,7 @@ A simple registration form user interface built using HTML5 and CSS3.
 
 - HTML5
 - CSS3
+
+## Screenshots
+
+![Online Shop Screenshot](screenshots/HTML-CSS-Online-Shop.PNG)
