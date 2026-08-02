@@ -1,0 +1,88 @@
+@font-face {
+    font-family: iransans;
+    src: url("Persian font/iransans/IRANSans-web.woff");
+}
+*{
+    font-family: iransans;
+    direction: rtl;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: white;
+    background-color: rgb(136, 0, 23);
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    padding: 5px;
+    margin: 20px;
+    box-shadow: 0px 0px 12px rgb(255, 58, 157);
+}
+.img{
+    margin: 20px;
+    width: 280px;
+    border-radius: 0 0 20px 20px;
+    -webkit-border-radius: 0 0 20px 20px;
+    -moz-border-radius: 0 0 20px 20px;
+    -ms-border-radius: 0 0 20px 20px;
+    -o-border-radius: 0 0 20px 20px;
+}
+.img_{
+    margin: 20px;
+    height: 210px;
+    width: 280px;
+    border: 1px solid black;
+    border-radius: 0 0 20px 20px;
+    -webkit-border-radius: 0 0 20px 20px;
+    -moz-border-radius: 0 0 20px 20px;
+    -ms-border-radius: 0 0 20px 20px;
+    -o-border-radius: 0 0 20px 20px;
+}
+table{
+    margin: 0px auto;
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+th{
+    border: 2px solid black;
+    padding: 5px;
+}
+td{
+    border: 2px solid black;
+    padding: 5px;
+}
+.img_table{
+    width: 80px;
+}
+.persent{
+    font-weight: bolder;
+    text-shadow: 0px 0px 3px rgb(89, 89, 248);
+}
+.submit{
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.table_r{
+    background-color: rgb(243, 245, 144);
+}
+body{
+    overflow-x: scroll;
+}
+input:hover{
+    box-shadow: 0 0 10px rgb(2, 99, 2);
+    border-radius: 10px;
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
